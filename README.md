@@ -9,3 +9,6 @@ through a simple early termination rule and has an average NRMSE reduction of at
 in real experiments, leading to sharper and more uniform PET images compared to comparison methods. Significance. DP-RI-Tikhonov’s ability to reduce noise intensity and effectively eliminate the semi-convergence property overcomes the limitations of existing methods, recovering high-quality images through a simple early termination rule. This advancement may have substantial implications for other medical IR.
 ## Restoration Visualization ##
 ![ezcv logo](https://github.com/weikechang/Deep-denoiser-prior-driven-relaxed-iterated-Tikhonov/blob/main/6.jpg)
+## Quantitative Results ##
+![ezcv logo](https://github.com/weikechang/Deep-denoiser-prior-driven-relaxed-iterated-Tikhonov/blob/main/results/results_SSIM_NRMSE.png)
+
